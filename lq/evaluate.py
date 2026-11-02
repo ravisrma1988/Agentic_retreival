@@ -403,7 +403,8 @@ def run_dialogues(args):
     from .simulate import simulate
     env_snapshot()
     retriever = load_retriever()
-    personas = read_jsonl(config.DATA_DIR / "personas.jsonl")
+    # smoke runs use a development persona set so that the held-out test set stays untouched during development
+    personas = read_jsonl(config.DATA_DIR / ("personas_dev2.jsonl" if "smoke" in args.tag else "personas.jsonl"))
     if args.per_behaviour:
         seen = Counter()
         personas = [p for p in personas if (seen.update([p["behaviour"]]) or seen[p["behaviour"]] <= args.per_behaviour)]

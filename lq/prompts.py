@@ -80,6 +80,11 @@ REACT_SYSTEM = """You are AutoStream's sales assistant. AutoStream is a SaaS vid
 - You cannot change a registration after register_lead has been called; never claim that you have.
 Be concise."""
 
+# Tool result returned to the ReAct agent when the user does not confirm a paused register_lead call (react_confirm).
+REACT_CONFIRM_REJECT = ("Not registered: the user did not confirm these details. The user replied: \"{reply}\". "
+                        "Respond to the user. If they corrected a detail, call register_lead again with the corrected "
+                        "details.")
+
 # ---------------------------------------------------------------- user simulator
 
 SIM_SYSTEM = """You are role-playing a person chatting with the sales assistant of AutoStream, a video-editing SaaS.

@@ -11,7 +11,7 @@ The system is a LangGraph agent for a fictional SaaS product (AutoStream). It ro
   - `agent.py` LangGraph graph of the proposed agent and its ablations
   - `retriever.py` dense retrieval with `bge-small-en-v1.5`
   - `extractor.py` rule-based extraction of lead fields
-  - `baselines.py` LLM-only, full-context, naive RAG and LangGraph ReAct baselines
+  - `baselines.py` LLM-only, full-context, naive RAG and LangGraph ReAct baselines, the latter also with a human-in-the-loop interrupt before the CRM write (`react_confirm`)
   - `prompts.py` every prompt, verbatim (agent, baselines, user simulator, judge, data generation)
   - `simulate.py` persona-based LLM user simulator
   - `evaluate.py` all experiments and metrics
@@ -44,6 +44,7 @@ A different model family is used for simulation and judging to reduce self-prefe
 | Full knowledge base in the prompt | 95.6 | 3.0 | n/a | n/a |
 | Naive RAG | 90.7 | 6.7 | n/a | n/a |
 | LangGraph ReAct | 88.5 | 8.9 | 40.0 (batched), 66.3 (sequential) | 43 / 19 (batched), 21 / 21 (sequential) |
+| LangGraph ReAct with human-in-the-loop interrupt | n/a | n/a | 44.0 (batched), 77.1 (sequential) | 12 / 2 (batched), 13 / 5 (sequential) |
 | Agentic RAG (proposed) | 91.1 | 5.9 | 93.7 (batched), 91.4 (sequential) | 0 / 0 |
 
 QA results are on 135 questions, and lead results are on 200 held-out simulated customers (175 lead dialogues). See the paper for confidence intervals, ablations, field-level extraction scores and per-turn cost.
