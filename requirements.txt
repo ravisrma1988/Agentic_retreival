@@ -1,0 +1,13 @@
+# Exact resolved versions are recorded per run in runs/env/pip_freeze.txt
+vllm==0.10.1.1
+transformers>=4.55,<4.57  # vllm 0.10.1.1 breaks with transformers 5.x tokenizers
+# On B200 (sm_100) torch must be the CUDA 12.8 build; see scripts/setup.sh
+sentence-transformers>=3.0,<6
+langgraph>=0.4,<0.7
+langchain-core>=0.3,<0.4
+langchain-openai>=0.3,<0.4
+openai>=1.40
+numpy>=1.26,<2.3  # numba (used by vllm) requires numpy <= 2.2
+pandas
+scikit-learn
+matplotlib

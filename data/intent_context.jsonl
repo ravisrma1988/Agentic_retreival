@@ -1,0 +1,40 @@
+{"prev_bot": "Would you like me to get you set up on the Pro plan?", "text": "yes please", "label": "high_intent"}
+{"prev_bot": "Would you like me to get you set up on the Pro plan?", "text": "sure, let's do it", "label": "high_intent"}
+{"prev_bot": "Would you like me to get you set up on the Pro plan?", "text": "ok go ahead", "label": "high_intent"}
+{"prev_bot": "Would you like to start the 14-day free trial?", "text": "yeah why not", "label": "high_intent"}
+{"prev_bot": "Would you like to start the 14-day free trial?", "text": "yes, sign me up", "label": "high_intent"}
+{"prev_bot": "Shall I connect you with our sales team about Enterprise?", "text": "yes, please have someone call me", "label": "high_intent"}
+{"prev_bot": "Would you like me to get you set up on the Pro plan?", "text": "not right now, thanks", "label": "general"}
+{"prev_bot": "Would you like to start the 14-day free trial?", "text": "maybe later", "label": "general"}
+{"prev_bot": "The Pro plan costs $79 per month, or $790 per year with annual billing.", "text": "thanks!", "label": "general"}
+{"prev_bot": "The Pro plan costs $79 per month, or $790 per year with annual billing.", "text": "great, that helps", "label": "general"}
+{"prev_bot": "The Pro plan costs $79 per month, or $790 per year with annual billing.", "text": "and the basic one?", "label": "product_inquiry"}
+{"prev_bot": "The Pro plan costs $79 per month, or $790 per year with annual billing.", "text": "does that include captions?", "label": "product_inquiry"}
+{"prev_bot": "The Pro plan costs $79 per month, or $790 per year with annual billing.", "text": "what about yearly for team?", "label": "product_inquiry"}
+{"prev_bot": "The Pro plan costs $79 per month, or $790 per year with annual billing.", "text": "ok I'll take the annual one", "label": "high_intent"}
+{"prev_bot": "The Pro plan costs $79 per month, or $790 per year with annual billing.", "text": "perfect, I want that", "label": "high_intent"}
+{"prev_bot": "The Pro plan costs $79 per month, or $790 per year with annual billing.", "text": "too expensive for me", "label": "general"}
+{"prev_bot": "Basic includes 10 video exports per month at up to 720p.", "text": "is there anything cheaper?", "label": "product_inquiry"}
+{"prev_bot": "Basic includes 10 video exports per month at up to 720p.", "text": "and 4k?", "label": "product_inquiry"}
+{"prev_bot": "Basic includes 10 video exports per month at up to 720p.", "text": "cool, upgrade me to basic", "label": "high_intent"}
+{"prev_bot": "Monthly plans can be refunded within 7 days of the first charge.", "text": "what if I paid yearly?", "label": "product_inquiry"}
+{"prev_bot": "Monthly plans can be refunded within 7 days of the first charge.", "text": "ok good to know", "label": "general"}
+{"prev_bot": "Monthly plans can be refunded within 7 days of the first charge.", "text": "alright then I'm in, let's subscribe", "label": "high_intent"}
+{"prev_bot": "AI captions support 32 languages.", "text": "hindi included?", "label": "product_inquiry"}
+{"prev_bot": "AI captions support 32 languages.", "text": "nice", "label": "general"}
+{"prev_bot": "Welcome to AutoStream. What would you like to know?", "text": "hello again", "label": "greeting"}
+{"prev_bot": "Welcome to AutoStream. What would you like to know?", "text": "pricing", "label": "product_inquiry"}
+{"prev_bot": "Welcome to AutoStream. What would you like to know?", "text": "i want to buy", "label": "high_intent"}
+{"prev_bot": "Welcome to AutoStream. What would you like to know?", "text": "just browsing", "label": "general"}
+{"prev_bot": "Welcome to AutoStream. What would you like to know?", "text": "hey there!", "label": "greeting"}
+{"prev_bot": "Welcome to AutoStream. What would you like to know?", "text": "what can you do?", "label": "general"}
+{"prev_bot": "Team includes 5 seats; extra seats are $35 per month each.", "text": "we need 8, how much is that?", "label": "product_inquiry"}
+{"prev_bot": "Team includes 5 seats; extra seats are $35 per month each.", "text": "ok put us down for team with 8 seats", "label": "high_intent"}
+{"prev_bot": "Team includes 5 seats; extra seats are $35 per month each.", "text": "let me check with my boss", "label": "general"}
+{"prev_bot": "Is there anything else I can help with?", "text": "no that's all, bye", "label": "general"}
+{"prev_bot": "Is there anything else I can help with?", "text": "yes, how do I cancel later if needed?", "label": "product_inquiry"}
+{"prev_bot": "Is there anything else I can help with?", "text": "actually yes, I'd like to sign up now", "label": "high_intent"}
+{"prev_bot": "Is there anything else I can help with?", "text": "good evening, no thanks", "label": "general"}
+{"prev_bot": "Students get 50% off the Pro plan.", "text": "I'm a student, can I get that?", "label": "high_intent"}
+{"prev_bot": "Students get 50% off the Pro plan.", "text": "how do you verify that?", "label": "product_inquiry"}
+{"prev_bot": "Students get 50% off the Pro plan.", "text": "haha I wish I was still a student", "label": "general"}

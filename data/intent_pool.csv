@@ -1,0 +1,401 @@
+id,prev_bot,text,gen_label,source,style
+I000,Welcome to AutoStream. What would you like to know?,hey there!,greeting,context_handwritten,context
+I001,,"Hai, I want to sign up for the Team plan for my small crew. Can you help me with the process?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I002,,are there any discounts for long term subscribes like yearly payments?,product_inquiry,generated,with typos and no capital letters
+I003,,I noticed my project file size is larger than expected. Is there a way to optimize it within the platform?,general,generated,formal and polite
+I004,,how do i start a trial for the pro plan? 😊,high_intent,generated,with typos and no capital letters
+I005,"The Pro plan costs $79 per month, or $790 per year with annual billing.",and the basic one?,product_inquiry,context_handwritten,context
+I006,,why does the timeline jump when i add an effect,general,generated,with typos and no capital letters
+I007,,Hello! Just had a cup of chai and thought I'd say hi. 😊,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I008,,I'm experiencing intermittent crashes when exporting videos. Could you please assist or suggest some troubleshooting steps?,general,generated,formal and polite
+I009,,"If I’m on the Basic plan, can I export my videos in 4K?",product_inquiry,generated,casual and short
+I010,,i currently on the free plan but i need more features for my channel. can i upgrade to basic somehow?,high_intent,generated,with typos and no capital letters
+I011,Is there anything else I can help with?,"yes, how do I cancel later if needed?",product_inquiry,context_handwritten,context
+I012,,"i want to buy the pro plan, what are my next steps?",high_intent,generated,with typos and no capital letters
+I013,"The Pro plan costs $79 per month, or $790 per year with annual billing.",does that include captions?,product_inquiry,context_handwritten,context
+I014,,"Hello, I need to speak with sales to discuss bulk licensing for my team. Who should I contact?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I015,,"The video timeline keeps freezing, is there a fix?",general,generated,casual and short
+I016,,Hello! Any news from the video-editing world today?,greeting,generated,casual and short
+I017,,Found a nice tip on video editing on Insta. Can u guys support more formats like .mov?,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I018,,What happens if I upgrade from Free to Basic later on? Do I lose anything?,product_inquiry,generated,casual and short
+I019,,Kaunsa operator ye app download karne me saath de raha hai? Slightly lag ho rahi hai.,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I020,,"Hey there, do you guys offer any sort of free trial or just straight-up plans?",product_inquiry,generated,casual and short
+I021,,How can I get notified about new updates?,general,generated,casual and short
+I022,,any chance u rlease updates on new feaures or when?,product_inquiry,generated,with typos and no capital letters
+I023,,"Hey, noticed my video rendering is super slow today. Any ideas?",general,generated,casual and short
+I024,Welcome to AutoStream. What would you like to know?,what can you do?,general,context_handwritten,context
+I025,,Hello! Hope you're having a great day. Chat soon!,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I026,,Hello! Just passing by to share some good vibes your way. 🌟,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I027,,im interested in signing up for ur basic plan. how long does it take?,high_intent,generated,with typos and no capital letters
+I028,,"good afternoon! there’s some lovely weather today, isn’t there?",greeting,generated,with typos and no capital letters
+I029,,is it going to take ages to render this at night or will it be quick,general,generated,with typos and no capital letters
+I030,,I am having trouble applying certain effects in my video projects. The effects don't seem to render properly. Could you help me resolve this?,general,generated,formal and polite
+I031,,I'm all set to upgrade. Where do I sign?,high_intent,generated,casual and short
+I032,,"Hi! I was just on a walk in the park, and it's amazing how much nature inspires my creativity. It got me thinking about how AutoStream helps me bring these inspirations into my videos. It's pretty cool to see how perspective can turn a simple idea into a polished piece. Hope all is well on your end!",greeting,generated,long and detailed
+I033,,"I am sharing my work with a collaborator, but they are unable to access the project. Could there be a permission setting I've missed?",general,generated,formal and polite
+I034,"The Pro plan costs $79 per month, or $790 per year with annual billing.",what about yearly for team?,product_inquiry,context_handwritten,context
+I035,,I'm a fan. How can I upgrade my current plan with you guys?,high_intent,generated,casual and short
+I036,,does the enterprise plan allow integration with existing editing software or tools we currently use?,product_inquiry,generated,with typos and no capital letters
+I037,,Just realized I'm missing some video assets. Can I get a heads-up when they're back?,general,generated,casual and short
+I038,,i hav a team of creators who might need ur service. how does the team plan work?,high_intent,generated,with typos and no capital letters
+I039,,hey! hope you’re having an awesome day. i just had a good laugh watching some cat videos!,greeting,generated,with typos and no capital letters
+I040,,Hello! I hope your day is as enjoyable as your service.,greeting,generated,formal and polite
+I041,,"hi there, im thinking about subscribing to ur services but wanna know more about ur pricing. any deets?",high_intent,generated,with typos and no capital letters
+I042,,Hey guys! What’s new in the world of video editing lately?,greeting,generated,casual and short
+I043,,hello. im interested in your enterprise plan. who can i talk to about a custom setup?,high_intent,generated,with typos and no capital letters
+I044,,"Hey, just wanted to say I love your platform! Keep up the great work.",greeting,generated,casual and short
+I045,,i want to sign up for the team plan but have qstions first,high_intent,generated,with typos and no capital letters
+I046,,"Hello! How have you been? It's a lovely day, right?",greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I047,,whats the process for subscribing to autostrm?,high_intent,generated,with typos and no capital letters
+I048,Monthly plans can be refunded within 7 days of the first charge.,"alright then I'm in, let's subscribe",high_intent,context_handwritten,context
+I049,,Hello! How are things going at AutoStream? 😊,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I050,,"Hello! I’ve heard AutoStream has a range of plans but I’m particularly interested in the Team plan. How many team members can I include, and what kind of collaborative features does it support? Are there any specific team management tools included?",product_inquiry,generated,long and detailed
+I051,,Greetings! Anyone making epic edits today?,greeting,generated,casual and short
+I052,,Hey! Hope you're enjoying the festive season.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I053,Welcome to AutoStream. What would you like to know?,i want to buy,high_intent,context_handwritten,context
+I054,,"Hi there! How have you been? Just wanted to share a quick hello, enjoying a lovely afternoon myself.",greeting,generated,formal and polite
+I055,,Thinking about upgrading from Basic to Team. Can you tell me more about the benefits?,high_intent,generated,casual and short
+I056,,Namaste! Just saw the new feature update and wanted to say hi.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I057,Is there anything else I can help with?,"actually yes, I'd like to sign up now",high_intent,context_handwritten,context
+I058,,can someone from sales chat with me about enterprise options?,high_intent,generated,with typos and no capital letters
+I059,,"Hey, just curious about how much the Pro plan costs?",product_inquiry,generated,casual and short
+I060,,i can't find the save button on my vid pro,general,generated,with typos and no capital letters
+I061,,"Hi, I've been trying to implement a split-screen effect for my latest interview, but the transitions between the split-screen and the regular views are jarring. Is there a way to customize these transitions or perhaps a feature I might be missing that's better suited for this kind of effect?",general,generated,long and detailed
+I062,"The Pro plan costs $79 per month, or $790 per year with annual billing.","great, that helps",general,context_handwritten,context
+I063,,Are there any mobile apps available for AutoStream that are compatible with both iOS and Android devices?,product_inquiry,generated,formal and polite
+I064,,Do any of the plans allow cloud storage or is that extra?,product_inquiry,generated,casual and short
+I065,,im curious about the app do u hav a mobile version for both ios and android?,product_inquiry,generated,with typos and no capital letters
+I066,,"Hello! It's a beautiful day, isn't it? Wishing you all the best!",greeting,generated,formal and polite
+I067,,Hello! I am interested in purchasing the Pro plan for AutoStream. Can you guide me through the process?,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I068,,hey there! how’s everything going with y'all today?,greeting,generated,with typos and no capital letters
+I069,,Do you offer any trial periods before committing to a plan?,product_inquiry,generated,casual and short
+I070,,Was thinking about my latest video project over here. Loving the editing tools!,greeting,generated,casual and short
+I071,,"Hey, I've been wondering how often payments are due for the Basic plan. Is it monthly or annual?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I072,,"I recently updated the app, and now my timeline is behaving unusually. Are there any known issues with the latest version?",general,generated,formal and polite
+I073,,I am currently experiencing syncing issues between my devices. They don't reflect the same project status. Any advice on this?,general,generated,formal and polite
+I074,,Namaste! How's the day treating you?,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I075,,"Hi, how often does AutoStream update their feature list for the Pro plan? I want to make sure it stays current.",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I076,,why doesn't my video export come out clean sometimes? its weird,general,generated,with typos and no capital letters
+I077,,"I'm trying to decide if AutoStream is the right choice for my current projects. Could you provide some examples of customer use cases for the Free, Basic, and Pro plans? I'm particularly interested in learning about different industries that utilize your platform.",product_inquiry,generated,long and detailed
+I078,,does autoStream hv any discounts for new subscribers?,product_inquiry,generated,with typos and no capital letters
+I079,,Hi there! Hope all is well. Any new updates on the platform?,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I080,,Interested in the video editing features. What's the process for starting a Basic plan?,high_intent,generated,casual and short
+I081,,"Dear team, I wish to subscribe to the Basic plan. Kindly assist with the necessary steps.",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I082,,Suggestions for improving audio quality in my recordings?,general,generated,casual and short
+I083,,"Hello, I'm trying to do a time-lapse sequence and I'm struggling with the frame rate settings. The final output either looks choppy or too fast. Is there a guide available on how to configure the settings for smooth time-lapse transitions? Any help would be much appreciated!",general,generated,long and detailed
+I084,,i was wondering if there are mobile apps for the service?,product_inquiry,generated,with typos and no capital letters
+I085,,hello! just a quick hello to see how you're doing. take care!,greeting,generated,with typos and no capital letters
+I086,,hey the video preview is not loading right i think my internet's fine what's going on here?,general,generated,with typos and no capital letters
+I087,,Notifications for project updates are delayed. Made a couple of changes but only saw them late.,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I088,,"Hi, what level of customer support can a user expect with the Free plan? Is it just email?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I089,,"Hi, just exploring options. Do you guys offer any kind of trial period to test AutoStream's features?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I090,,Hi! Hope things are going smoothly with you.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I091,,"Hello, I’m looking to contact sales about the Enterprise plan. Can someone connect me, please?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I092,"The Pro plan costs $79 per month, or $790 per year with annual billing.",thanks!,general,context_handwritten,context
+I093,,i run a youtube channel and im considering ur service. how do i contact sales for more info?,high_intent,generated,with typos and no capital letters
+I094,,"hey, just a quick check-in. hope you're not too swamped with work!",greeting,generated,with typos and no capital letters
+I095,,Could you provide more information on the subscription process for the Enterprise plan?,high_intent,generated,formal and polite
+I096,,Hello! Just happy to be part of the AutoStream community.,greeting,generated,casual and short
+I097,,I've been using the Free version of AutoStream and would like to explore the Enterprise package. Can someone guide me through the upgrade process?,high_intent,generated,formal and polite
+I098,,I am interested in subscribing to AutoStream's Pro plan. Could you please guide me on how to proceed?,high_intent,generated,formal and polite
+I099,,I am interested in discussing the benefits of AutoStream's Team plan with a sales representative. How can I arrange this?,high_intent,generated,formal and polite
+I100,,Resham ki saree ka design bikta hai yi video editing app mein. Koi suggest kar sakta hai kaise?,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I101,,What's up? Hope you're doing well!,greeting,generated,casual and short
+I102,Would you like me to get you set up on the Pro plan?,"not right now, thanks",general,context_handwritten,context
+I103,,Hello! It's lovely to engage with your team at AutoStream.,greeting,generated,formal and polite
+I104,,hi there! just wanted to say hi before i jump into editing my latest project!,greeting,generated,with typos and no capital letters
+I105,Would you like me to get you set up on the Pro plan?,yes please,high_intent,context_handwritten,context
+I106,,Could you clarify the difference between the Basic and Pro plans in terms of cloud storage capacity?,general,generated,formal and polite
+I107,,"Hi there, I am curious abt the App support for mobile devices. Does AutoStream work on Android n iOS both?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I108,,whassup! finding any cool video tips lately?,greeting,generated,with typos and no capital letters
+I109,,Got any tips for better transitions?,general,generated,casual and short
+I110,,hey! i was just thinking about how much i enjoy editing on autosream. all good?,greeting,generated,with typos and no capital letters
+I111,,"Meri plan upgrade, Basic to Pro, se mukkam hoga. Please let me know how to proceed.",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I112,,my friend says they can't see my uploads on their side but everything looks cool on mine,general,generated,with typos and no capital letters
+I113,,hello! how's the team holding up? i know how busy it gets!,greeting,generated,with typos and no capital letters
+I114,,"Hi, I'm considering auto-hyperlink feature for my videos. Is this available in Team plan?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I115,,How does the billing process work for recurring payments on AutoStream?,product_inquiry,generated,formal and polite
+I116,,could i speak to someone about upgrading to pro?,high_intent,generated,with typos and no capital letters
+I117,,I would like to sign up for your video-editing platform. Could I speak with a sales representative to discuss potential plans?,high_intent,generated,formal and polite
+I118,,Thinking of moving to Team. Can someone help?,high_intent,generated,casual and short
+I119,,Hi there! I'd like to chat about upgrading to a higher tier. Could we touch base?,high_intent,generated,casual and short
+I120,,Thinking of subscribing to your platform. How do I get started?,high_intent,generated,casual and short
+I121,,"Hi, I recently discovered AutoStream and I'm considering it for my upcoming projects. Before I make any commitments, I want to understand your refund policy better. Could you explain the process if I decide to cancel a subscription and what the conditions are for a refund?",product_inquiry,generated,long and detailed
+I122,,What's going on? Hope you're having a productive day!,greeting,generated,casual and short
+I123,,"hey, im curious about a trial of ur platform. is there any limit on how long i can try it?",high_intent,generated,with typos and no capital letters
+I124,,Good afternoon! Just dropping by to say a quick hello.,greeting,generated,formal and polite
+I125,,Hello! Just wanted to catch up and say hi!,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I126,,Hi! Just wanted to take a moment and say that your platform is helping me greatly.,greeting,generated,formal and polite
+I127,,Good day! I would like to subscribe to the Basic plan. What are the steps to get started?,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I128,,Good afternoon! Just wanted to drop by and say hello.,greeting,generated,casual and short
+I129,,I would appreciate assistance with signing up for a Pro plan. Can you guide me through the necessary steps?,high_intent,generated,formal and polite
+I130,Students get 50% off the Pro plan.,"I'm a student, can I get that?",high_intent,context_handwritten,context
+I131,,Can we talk about signing up for your Enterprise package? I’m keen to learn more.,high_intent,generated,casual and short
+I132,AI captions support 32 languages.,hindi included?,product_inquiry,context_handwritten,context
+I133,,can i try out your pro plan for a couple of days? how do i set up a trial?,high_intent,generated,with typos and no capital letters
+I134,,"when i export it, the audio desyncs",general,generated,with typos and no capital letters
+I135,,Good morning! Hope everyone at AutoStream is doing well.,greeting,generated,casual and short
+I136,,"Hi, I was curious about the community forums. I've been looking for a space to share some tips and maybe get feedback on my work. Is there an online community where creators gather to discuss techniques or share projects?",general,generated,long and detailed
+I137,,Hello! Wishing you and your team all the best.,greeting,generated,formal and polite
+I138,,"Hey, I'm ready to buy the Pro plan today. Can you guide me through the payment process?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I139,,Hi! Just checking in. What's new with you?,greeting,generated,casual and short
+I140,,"I'm curious, what's the price difference between Basic and Team?",product_inquiry,generated,casual and short
+I141,,i opened a ticket about the sync problem like a week ago but no response yet,general,generated,with typos and no capital letters
+I142,Welcome to AutoStream. What would you like to know?,just browsing,general,context_handwritten,context
+I143,,heya! i saw the latest blog post and it was pretty cool!,greeting,generated,with typos and no capital letters
+I144,,what kind of customer support do you offer for someone on the basic plan?,product_inquiry,generated,with typos and no capital letters
+I145,,"Hello, I'm interested in knowing more about AutoStream's various plans. Can you explain the difference b/w Free and Pro plans?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I146,,I am interested in subscribing to the Pro plan of AutoStream. Could you please provide more details on how to proceed with the purchase?,high_intent,generated,formal and polite
+I147,,Namaste! I want to discuss the Enterprise plan with sales. How do I reach them?,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I148,Basic includes 10 video exports per month at up to 720p.,is there anything cheaper?,product_inquiry,context_handwritten,context
+I149,,Free trial sounds great. How can I get started?,high_intent,generated,casual and short
+I150,,"I'm interested in the features AutoStream offers across different plans. Could you elaborate on any unique editing tools or templates that are exclusive to premium plans? Also, is there any kind of feature roadmap available for future updates?",product_inquiry,generated,long and detailed
+I151,,i wanna kno what happens with billing at the end of the period also can i pause if i need to?,product_inquiry,generated,with typos and no capital letters
+I152,,i got this weird error message when i saved and idk how to fix it,general,generated,with typos and no capital letters
+I153,,i wanna know if there s any limit to file size i can upload using the pro plan,product_inquiry,generated,with typos and no capital letters
+I154,Team includes 5 seats; extra seats are $35 per month each.,ok put us down for team with 8 seats,high_intent,context_handwritten,context
+I155,Shall I connect you with our sales team about Enterprise?,"yes, please have someone call me",high_intent,context_handwritten,context
+I156,,I am keen to start a trial for your platform and would like to understand the steps involved. Can you assist?,high_intent,generated,formal and polite
+I157,,"Hello, can you provide details on mobile app support for Pro users? Is it available on Android?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I158,,Is it possible to collaborate on projects with someone offline?,general,generated,casual and short
+I159,,interested in the basic plan but need more details,high_intent,generated,with typos and no capital letters
+I160,,Greetings! I just wanted to take a moment to share a friendly hello with you.,greeting,generated,formal and polite
+I161,,"Namaste, can you tell me about the billing cycle for the Enterprise plan on AutoStream?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I162,,"Can ya tell me more 'bout the Enterprise plan? Like, what additional services r available for big teams?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I163,Team includes 5 seats; extra seats are $35 per month each.,"we need 8, how much is that?",product_inquiry,context_handwritten,context
+I164,"The Pro plan costs $79 per month, or $790 per year with annual billing.",ok I'll take the annual one,high_intent,context_handwritten,context
+I165,,Hi! How's the weather treating you today?,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I166,,Can I link my other social media accounts directly from AutoStream?,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I167,,Are there any discounts available for long-term commitments or enterprise contracts with AutoStream?,product_inquiry,generated,formal and polite
+I168,,Could you assist me with upgrading to the next available plan? I would also appreciate any promotional offers that might be available.,high_intent,generated,formal and polite
+I169,,"hey there! just thought I'd say hi, how's everything going?",greeting,generated,with typos and no capital letters
+I170,,"Hello, I wanted to know if there's any discount on yearly plans or any ongoing promos?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I171,,how can i upgrade from team to enterprise?,high_intent,generated,with typos and no capital letters
+I172,,"hi there, just dropping by to say hello. hope all is well on your end!",greeting,generated,with typos and no capital letters
+I173,,Hi! How's everyone doing at AutoStream?,greeting,generated,casual and short
+I174,,Hi there! Hope you're having a productive day!,greeting,generated,casual and short
+I175,,is it possible to start tryin the pro plan before buying?,high_intent,generated,with typos and no capital letters
+I176,,my team was using the pro version but now everything looks different since we switched accounts is that normal?,general,generated,with typos and no capital letters
+I177,Is there anything else I can help with?,"no that's all, bye",general,context_handwritten,context
+I178,,I would like to know if there are any upcoming features planned for future releases that I should be aware of.,general,generated,formal and polite
+I179,Monthly plans can be refunded within 7 days of the first charge.,what if I paid yearly?,product_inquiry,context_handwritten,context
+I180,,I'm thinking of startin my channel but worried 'bout billing. Are there any hidden charges in the Pro plan?,product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I181,Would you like to start the 14-day free trial?,"yes, sign me up",high_intent,context_handwritten,context
+I182,,Hey! Just wanted to say a quick bolo. Are you doing well?,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I183,,Hi! It's been a while since I last touched base. Let's catch up.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I184,,hey there! just wanted to say hi and hope you're doing well. 😊,greeting,generated,with typos and no capital letters
+I185,,Namaste! Just checking in to see how things are with the platform.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I186,,I am interested in signing up for a Free trial to explore AutoStream's features. How can I get started?,high_intent,generated,formal and polite
+I187,,I encountered an issue with my video export; it seems to be stuck halfway through the process.,general,generated,formal and polite
+I188,,Could you kindly outline the key features included in AutoStream's Basic plan compared to the Pro plan?,product_inquiry,generated,formal and polite
+I189,Is there anything else I can help with?,"good evening, no thanks",general,context_handwritten,context
+I190,,hi! just wanted to say hi. how's the new update going?,greeting,generated,with typos and no capital letters
+I191,,"Having trouble logging in, it just keeps timing out.",general,generated,casual and short
+I192,,Is there 24/7 support for the Enterprise plan or just business hours?,product_inquiry,generated,casual and short
+I193,,Why's my account showing the wrong subscription level?,general,generated,casual and short
+I194,,"hello! just passing through to say hi, how's it going?",greeting,generated,with typos and no capital letters
+I195,,hey i was just wondering what the difference is between the basics and pro plans does the pro include better stabilization tools,product_inquiry,generated,with typos and no capital letters
+I196,,Could you provide guidance on best practices for managing high-resolution footage within AutoStream to avoid performance bottlenecks?,general,generated,formal and polite
+I197,,Hi there! I want to start a trial for your Pro version. What do I need to do?,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I198,,Hi! How have you been? Just passing by for a little chat.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I199,,"Hello, I want to sign up for AutoStream immediately. Can your sales team help me with this?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I200,Would you like to start the 14-day free trial?,maybe later,general,context_handwritten,context
+I201,,I would like to initiate a trial for the Team plan. Can you assist me with the necessary steps?,high_intent,generated,formal and polite
+I202,,Greetings! I trust everything is going well for you.,greeting,generated,formal and polite
+I203,,"Meri laptop mein space nahi hai, kya video upload karne se pehle kuch compress kar sakte hain?",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I204,,"Hey, I'm just browsing. Does AutoStream support collaborative editing if I upgrade to Team plan?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I205,,"Dost, mujhe lagta hai ki mujhe project download karne mein kuch problem hai. Nahi samajh raha, ye kya karein?",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I206,,what's included in the basic plan? i need to know whut i get with it,product_inquiry,generated,with typos and no capital letters
+I207,,"Hello, I am interested in signing up for an AutoStream account. What options do I have?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I208,,"Hey, could ya help me access my old project? I think I forgot the password. 🙄",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I209,,The collaborative editing feature seems to lag when multiple users are editing a project simultaneously. Do you have any suggestions to improve performance?,general,generated,formal and polite
+I210,,Namaste! I am eager to sign up for a free trial of AutoStream. How do I proceed?,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I211,,Next update mein aap basic plan me kya tools add karta hai? Kuch update milegi?,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I212,,"Hey, can I switch plans midway through a billing cycle with no hassle?",product_inquiry,generated,casual and short
+I213,,"Hi, I heard AutoStream has an appealing set of features for content creators. Can you give more details about the cloud storage limits for each plan? Also, are there any integrations with popular media storage or editing tools available?",product_inquiry,generated,long and detailed
+I214,,I'm trying to sync my audio tracks but keep running into an error message. Any troubleshooting tips?,general,generated,formal and polite
+I215,Students get 50% off the Pro plan.,how do you verify that?,product_inquiry,context_handwritten,context
+I216,,I am interested in signing up for an AutoStream account on your Basic plan. What is the best way to begin this process?,high_intent,generated,formal and polite
+I217,,"Oh woh, completely lost. This project file got corrupted somehow. Can u pls assist?",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I218,,Hey! How's everything on your end? Hope all is well.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I219,,can i talk to sales about a customized payment plan?,high_intent,generated,with typos and no capital letters
+I220,,Hello! I hope you're doing well and enjoying your day.,greeting,generated,formal and polite
+I221,,Is there an option to start a trial for the Pro plan? I'm keen to explore its features.,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I222,,i deleted a trim by mistake can it be undone,general,generated,with typos and no capital letters
+I223,,"need help, my vid turns green after export",general,generated,with typos and no capital letters
+I224,,Could you provide more information about the file format compatibility of your platform? I'm trying to import older footage but encountering errors.,general,generated,formal and polite
+I225,,"Hi there, I have a query regarding the features included in the Basic plan. Do I get access to 4K editing?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I226,,can u tell me how often the billing happens fr the pro plan?,product_inquiry,generated,with typos and no capital letters
+I227,,"Hey there, I'm really liking what I see. How can I start my Pro plan?",high_intent,generated,casual and short
+I228,,I've decided to go with AutoStream. Sign me up!,high_intent,generated,casual and short
+I229,,what's up? just wanted to say hello and check in with you!,greeting,generated,with typos and no capital letters
+I230,,Good morning! I hope you're having a pleasant day. I'm just dropping by to say hello!,greeting,generated,formal and polite
+I231,,I am considering various video editing platforms and would like to know more about AutoStream's different pricing plans. Could you please provide some details?,product_inquiry,generated,formal and polite
+I232,,"Hello, I'm interested in subscribing to the Pro plan. Can you guide me on how to get started?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I233,,Hi there! I’ve been editing all morning and loving every minute of it!,greeting,generated,casual and short
+I234,,i want to upgrd from the free plan to basic can u help?,high_intent,generated,with typos and no capital letters
+I235,,"Maine apne apne friends pey sab video share ki hai, kuch ideas chahiye project ki promotion ke liye.",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I236,,"I noticed that the latest update has changed the layout of the timeline interface significantly. Is this a permanent change, or are there options to revert to the previous layout?",general,generated,formal and polite
+I237,,signing up for vidoeditng is easy? plz guide,high_intent,generated,with typos and no capital letters
+I238,,Hi! I’m interested in purchasing AutoStream. Can you direct me to sales for more details?,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I239,,"hey, just a quick hello from one corner of the internet to another. hope all is well!",greeting,generated,with typos and no capital letters
+I240,,Can someone explain why my annotations disappeared?,general,generated,casual and short
+I241,,so i tried converting the file to mp4 like u suggested but it's still not right,general,generated,with typos and no capital letters
+I242,,Can I try out the Basic plan before committing?,high_intent,generated,casual and short
+I243,,Good morning! Wishing you all a vibrant and creative day ahead.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I244,,The subtitles auto-generated are off-sync. Any quick fix for this?,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I245,,"Hello, I'm curious about whether the Enterprise plan includes dedicated account support.",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I246,,Do you guys offer any tutorials for advanced effects?,general,generated,casual and short
+I247,,"Hello, I came across the Basic plan but I'm not sure if it's the right fit. Can you provide specific details on pricing?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I248,Basic includes 10 video exports per month at up to 720p.,"cool, upgrade me to basic",high_intent,context_handwritten,context
+I249,,Greetings! I'm pleased to connect with a reputable service like yours.,greeting,generated,formal and polite
+I250,,I wanna know if there are tutorials or customer support for self-learners who wanna use AutoStream?,product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I251,,hw do u cancel subscription if i hv the basic plan? needs to hv tutorials,product_inquiry,generated,with typos and no capital letters
+I252,,"The export took ages today, like twice the usual time. Why's that happening, ya know?",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I253,,"Got a question about billing. Do you charge annually, monthly or both?",product_inquiry,generated,casual and short
+I254,,i deleted a part of my vid by accident can i undo that somehow?,general,generated,with typos and no capital letters
+I255,,Hey there! How's it going?,greeting,generated,casual and short
+I256,,can i upgrade from pro to enterprise plan directly? how much extra will it cost?,high_intent,generated,with typos and no capital letters
+I257,,planning fo dnext update... any new stuff comin to autoStream soozoon?,product_inquiry,generated,with typos and no capital letters
+I258,,Good day! I decided to send a little hello your way. Hope it finds you well!,greeting,generated,formal and polite
+I259,,Mujhe lagta hai ki meri last edited video mein ek typo hai. Koi easy fix hai kya?,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I260,Welcome to AutoStream. What would you like to know?,pricing,product_inquiry,context_handwritten,context
+I261,,"Hey, what are the payout policies for AutoStream? I'm curious about the payout frequency.",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I262,,I'm curious about the billing cycle for AutoStream subscriptions. How is it structured?,product_inquiry,generated,formal and polite
+I263,,"I noticed ads popping up mid-edit, is that normal?",general,generated,casual and short
+I264,,What are the benefits or incentives for long-term subscriptions to AutoStream's services?,product_inquiry,generated,formal and polite
+I265,,Hello! Wanted to drop by with a friendly hello. Enjoying the day here.,greeting,generated,formal and polite
+I266,,Wondering about cancellation policies—do you charge for unused time?,product_inquiry,generated,casual and short
+I267,,I wish to upgrade my current subscription. What are the available options and how can I proceed with a change?,high_intent,generated,formal and polite
+I268,,"i dont kno y but im not able to log in to my acc, whts up with that?",product_inquiry,generated,with typos and no capital letters
+I269,,Greetings! I hope you're having a happy day.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I270,,Hey! Appreciating all the hard work you guys do. Hope it's going well for everyone.,greeting,generated,casual and short
+I271,,"Hello, I'm interested in starting a trial for your Basic plan. Could you assist me with the steps to get started?",high_intent,generated,formal and polite
+I272,,"I think there’s a bug in the subtitle generator, can you help?",general,generated,casual and short
+I273,,"fr the free version, what features am i missing compared to paid plans?",product_inquiry,generated,with typos and no capital letters
+I274,,i changed something to get rid of noise in the clips but now the quality dropped too much,general,generated,with typos and no capital letters
+I275,,Could you provide details on how to upgrade from my current Free plan to a more advanced one? I am particularly interested in the Basic plan.,high_intent,generated,formal and polite
+I276,,Wanna give your service a go. How do I sign up for a trial?,high_intent,generated,casual and short
+I277,,idk if i should go for the free plan or basic what are the specific benefits of basic?,product_inquiry,generated,with typos and no capital letters
+I278,,Mujhe lagta hai ki biwi ne meri account me videos upload kiye hain. Kya isko nahi cancel kar sakte?,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I279,Basic includes 10 video exports per month at up to 720p.,and 4k?,product_inquiry,context_handwritten,context
+I280,,Can I upgrade any time or is there a specific time of year for plan changes?,product_inquiry,generated,casual and short
+I281,,"Namaste, I want to know if AutoStream has direct integration with other SaaS like Canva or Adobe?",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I282,,Why aren't my custom keyboard shortcuts working?,general,generated,casual and short
+I283,,anybody else get weird glitches when exporting,general,generated,with typos and no capital letters
+I284,,I'm currently on the Free plan and I want to upgrade to Team. What are the steps?,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I285,,I'm interested in learning more about the pricing structure for the AutoStream platform. Could you elaborate on that?,product_inquiry,generated,formal and polite
+I286,,Good morning! Hope you’re having a sweet day.,greeting,generated,casual and short
+I287,,What's the process to upgrade to Team?,high_intent,generated,casual and short
+I288,,"Namaste, I would love to try out the Free plan as a beginner before deciding to upgrade. How can I start a trial?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I289,,How do I get my team access to this project?,general,generated,casual and short
+I290,AI captions support 32 languages.,nice,general,context_handwritten,context
+I291,,"Hi, I'm getting error messages every time I try to export my videos to Instagram. It says something about incompatible formats, but I can't figure out what I'm doing wrong. What are the best settings to use if I want to share my edits directly on social media platforms like Instagram or TikTok?",general,generated,long and detailed
+I292,,Can you explain the upgrade or downgrade policy for AutoStream plans? Is there a penalty involved?,product_inquiry,generated,formal and polite
+I293,,"i wanna sign up for ur platform, how do i start?",high_intent,generated,with typos and no capital letters
+I294,,Does the Basic plan allow collaboration with other users?,product_inquiry,generated,casual and short
+I295,,how do i get started with the free plan?,high_intent,generated,with typos and no capital letters
+I296,,"Hello, I've been looking into various video-editing solutions and AutoStream caught my attention. I'm wondering about your billing cancellation policy. How easy is it to cancel a subscription and are there any associated fees?",product_inquiry,generated,long and detailed
+I297,,Could you please connect me with a sales representative? I’m interested in discussing the features and pricing of the Team plan.,high_intent,generated,formal and polite
+I298,,is there any difference in video export quality between the free and enterprise plan?,product_inquiry,generated,with typos and no capital letters
+I299,,Yo! How's it all going over in the tech support side?,greeting,generated,casual and short
+I300,,I've been noticing slower rendering times compared to my previous experience with AutoStream. Could this be due to server-side issues?,general,generated,formal and polite
+I301,,i noticed a lag when i apply this transition effect in high-res vids can u help?,general,generated,with typos and no capital letters
+I302,,"Ek Bollywood song video bana rahaa hu, aapko toh suna hi thi kya? Sabse badi kaafi zaruri ho gai.",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I303,Welcome to AutoStream. What would you like to know?,hello again,greeting,context_handwritten,context
+I304,Monthly plans can be refunded within 7 days of the first charge.,ok good to know,general,context_handwritten,context
+I305,,Wondering if the Enterprise plan has any team management features?,product_inquiry,generated,casual and short
+I306,,The last tutorial was awesome! Learned a lot.,general,generated,casual and short
+I307,,"Hi, I want to upgrade from the Free plan to the Team plan. Could you assist me?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I308,,Hello! I hope you're enjoying your day. Let's have a small chat!,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I309,,Where's the option to customize the color of my video thumbnails? Can't seem to find it.,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I310,,Hi! Just wanted to share that I'm enjoying using AutoStream.,greeting,generated,formal and polite
+I311,,Hi! What's the refund policy if I don't like the service after my first month?,product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I312,,Can you provide information on how customers can access support if they encounter issues with AutoStream?,product_inquiry,generated,formal and polite
+I313,,I'm curious about integration possibilities with third-party software. Does AutoStream support any plugin systems?,general,generated,formal and polite
+I314,,I would like to initiate a subscription to your Enterprise plan. Who do I contact for personalized customer support?,high_intent,generated,formal and polite
+I315,,Pls send me the details for the team meeting scheduled for tomorrow.,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I316,,i need to buy the basic plan but not sure how.,high_intent,generated,with typos and no capital letters
+I317,,I accidentally deleted a project and can't find it in the recovery section. Is there any way to retrieve it?,general,generated,formal and polite
+I318,,"Namaste, I want to subscribe to your platform. Which plan is best for a solo content creator like me?",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I319,,Could I get more information on what kind of analytics or reporting tools are available with the Pro plan?,product_inquiry,generated,formal and polite
+I320,,Are there any specific policies regarding data storage or privacy on AutoStream's platform?,product_inquiry,generated,formal and polite
+I321,,"Hey, I've been using AutoStream's Basic plan and have found it generally meets my needs. However, I'm considering scaling up my operations and might need more robust features soon. Can you provide insights into how the Pro plan could enhance my workflow and guide me through the upgrade process?",high_intent,generated,long and detailed
+I322,,Sometimes the color grading tools return an error when applied to multiple clips. Is there a known limitation or workaround for this issue?,general,generated,formal and polite
+I323,,I recently upgraded to the Pro plan but I'm still seeing the limitations of my previous Free tier on some features. Is there an activation issue?,general,generated,formal and polite
+I324,Team includes 5 seats; extra seats are $35 per month each.,let me check with my boss,general,context_handwritten,context
+I325,,"Hey there, could you tell me what features come with the Pro plan?",product_inquiry,generated,casual and short
+I326,,I've been experiencing some lag when applying effects; could this be related to my device's specifications?,general,generated,formal and polite
+I327,Would you like me to get you set up on the Pro plan?,ok go ahead,high_intent,context_handwritten,context
+I328,,Are there hidden fees I should know about with any of these plans?,product_inquiry,generated,casual and short
+I329,,"Hey! It's a beautiful day, huh?",greeting,generated,casual and short
+I330,,"hi, just stopping by to say hi! hope things are going well for you.",greeting,generated,with typos and no capital letters
+I331,,What kind of support do you offer for the Free plan?,product_inquiry,generated,casual and short
+I332,,"I've been getting random error messages while editing, any help?",general,generated,casual and short
+I333,"The Pro plan costs $79 per month, or $790 per year with annual billing.","perfect, I want that",high_intent,context_handwritten,context
+I334,,I am interested in trying out AutoStream's services. Can I get a trial of the Basic plan?,high_intent,generated,formal and polite
+I335,,Is there a way to merge clips from multiple projects at once?,general,generated,casual and short
+I336,,Why did my project save suddenly revert to an old version?,general,generated,casual and short
+I337,,"Hello, I'm new to your platform and I'm trying to perform color correction on a series of interviews, but I'm not getting the results I want. It either desaturates too much or ends up looking unnatural. Could you provide some insight or resources on how to achieve a more natural, consistent look?",general,generated,long and detailed
+I338,,"hello, just a quick hello from the other side. have a great day!",greeting,generated,with typos and no capital letters
+I339,,"Hello, can ya explain the difference in editing tools between Basic n Pro plans? Not sure which one suits me better.",product_inquiry,generated,"Indian English, may mix a few Hindi words in Latin script"
+I340,,"Just wondering, how long does billing last before it auto-renews?",product_inquiry,generated,casual and short
+I341,,"I am considering upgrading my current Basic plan. What are the benefits of the Enterprise plan, and how can I start the process?",high_intent,generated,formal and polite
+I342,,Could you explain how the pricing varies between individual plans and the Team plan?,product_inquiry,generated,formal and polite
+I343,,i'm always getting low storage warnings despite cleaning up,general,generated,with typos and no capital letters
+I344,Would you like to start the 14-day free trial?,yeah why not,high_intent,context_handwritten,context
+I345,,"I'm currently using a competitor’s video-editing software and am evaluating alternatives. Can you explain the support policies at AutoStream? Specifically, what levels of customer support are provided across different plans and how quickly can I expect responses?",product_inquiry,generated,long and detailed
+I346,,"Was thinking, is there an app for AutoStream or do I have to use the browser?",product_inquiry,generated,casual and short
+I347,,"I'd like to know more about any apps that AutoStream offers for mobile editing. Are these included in all plans, or are they separate?",product_inquiry,generated,formal and polite
+I348,,could u explain the refund policy im slightly unclear about it,product_inquiry,generated,with typos and no capital letters
+I349,,i heard ur platform is great for content creators. where do i go to sign up?,high_intent,generated,with typos and no capital letters
+I350,,What are the conditions for upgrading from the Free plan to a paid plan with AutoStream?,product_inquiry,generated,formal and polite
+I351,,Could you please provide more details about the different subscription plans AutoStream offers and what features each includes?,product_inquiry,generated,formal and polite
+I352,,I'm thinking about upgrading from Basic to Pro. How do I go about doing that?,high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I353,,Hello! How is everything with you today? Just wanted to reach out with a friendly message.,greeting,generated,formal and polite
+I354,,im on ur free plan and loving it but i need more storage. how do i switch to basic?,high_intent,generated,with typos and no capital letters
+I355,,hi! just wanted to say hi and see how you're doing.,greeting,generated,with typos and no capital letters
+I356,,Hey there! Hope you're all doing well amidst the Diwali buzz.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I357,,Can you describe the key features that differentiate the Pro plan from the Basic plan at AutoStream?,product_inquiry,generated,formal and polite
+I358,"The Pro plan costs $79 per month, or $790 per year with annual billing.",too expensive for me,general,context_handwritten,context
+I359,,"Can we integrate some AI suggestions for video effects, like this chick did on her channel?",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I360,,I am eager to learn more about the Pro plan. Could you direct me to someone from the sales team who can discuss this in detail?,high_intent,generated,formal and polite
+I361,,"Just wondering, what makes the Team plan different from the Pro?",product_inquiry,generated,casual and short
+I362,,I’m exploring options for team collaboration tools in video editing. What features does AutoStream offer in its Team plan?,product_inquiry,generated,formal and polite
+I363,,"hiya! just wanted to say hello, how are you today?",greeting,generated,with typos and no capital letters
+I364,,Could someone help me get started with a basic subscription?,high_intent,generated,casual and short
+I365,,I'm curious about the billing cycle AutoStream uses. How often are charges applied for each plan?,product_inquiry,generated,formal and polite
+I366,,Just wanted to pop in and say hi to my new favorite video-editing tool!,greeting,generated,casual and short
+I367,,Is there an app for AutoStream to edit on my phone?,product_inquiry,generated,casual and short
+I368,,Greetings! Hope all is well on your end. It's always nice to start conversations with a warm hello.,greeting,generated,formal and polite
+I369,,Meri account report se zyada 50 likes kyu nahi le pa rahi hai? Koi guideline nahi bani lagti.,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I370,,"Meri ek company ka hai, aur hum chahte hain ki Enterprise plan ke haq mein paid honge. Please guide me.",high_intent,generated,"Indian English, may mix a few Hindi words in Latin script"
+I371,,Is there a way to automate certain repetitive tasks in my editing workflow? I'm aiming for more efficiency.,general,generated,formal and polite
+I372,,What's the process to start a 30-day trial of the Team plan?,high_intent,generated,casual and short
+I373,,Hi there! I wanted to take a moment to reach out and say hello.,greeting,generated,formal and polite
+I374,,There are occasional issues with the subtitles sync when I export. Is there a recommended practice to ensure the subtitles match up correctly?,general,generated,formal and polite
+I375,,"Hi, I'm exploring options for a platform that can assist with my business content creation needs. Can you tell me more about the Enterprise plan at AutoStream? What are the customization options available and how do they benefit larger teams?",product_inquiry,generated,long and detailed
+I376,,Mujhe lagta hai ki partnes ne aapke app mein dafa edit kiya hai. Khabar hui hai kya?,general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I377,,Are there any tutorials available for first-time users?,product_inquiry,generated,casual and short
+I378,,Let's get me on the Pro plan. How do I proceed?,high_intent,generated,casual and short
+I379,,"hi! just a casual hi, hope you're having a great day!",greeting,generated,with typos and no capital letters
+I380,,I'm interested in Enterprise. Who do I talk to for sales?,high_intent,generated,casual and short
+I381,,Is there an option to try AutoStream on a trial basis before subscribing to a paid plan?,product_inquiry,generated,formal and polite
+I382,,"Hey there! The weather today is absolutely delightful, wouldn't you agree? It just puts me in such a creative mood, making me want to dive into a new project on AutoStream. It's evenings like these that make me appreciate having such a sleek platform to bring my ideas to life. How has your day been?",greeting,generated,long and detailed
+I383,,Greetings! I appreciate all the hard work you've put into this service.,greeting,generated,formal and polite
+I384,,Send me the steps to get a trial going!,high_intent,generated,casual and short
+I385,,hello! just passing through. how’s everything going over on the autosream side?,greeting,generated,with typos and no capital letters
+I386,Students get 50% off the Pro plan.,haha I wish I was still a student,general,context_handwritten,context
+I387,,my vids keep stuttering when i play back,general,generated,with typos and no capital letters
+I388,,How do I get started with auto-renewal for my Pro plan?,high_intent,generated,casual and short
+I389,,hi! hope you’re having a great day. i just made a new vid and i’m super excited about it!,greeting,generated,with typos and no capital letters
+I390,,I noticed some of my recent edits weren't saved before the app crashed. Is there a recovery feature to retrieve those changes?,general,generated,formal and polite
+I391,,Hey! Just thought to let you know I'm here and doing good.,greeting,generated,"Indian English, may mix a few Hindi words in Latin script"
+I392,,"Just realized I can't export in 4K with my current plan, what do I do?",general,generated,casual and short
+I393,,Good morning! I hope you're having a pleasant day.,greeting,generated,formal and polite
+I394,,"Hey! It's a beautiful day, isn't it? Hope your side’s not too busy.",greeting,generated,casual and short
+I395,,Greetings! Just saying hello and hoping you have a fantastic day!,greeting,generated,formal and polite
+I396,,"Mujhe Dilliw mein auto stream se milne waali event ka pata hai kya? Dost, kaafi interesting lagta hai.",general,generated,"Indian English, may mix a few Hindi words in Latin script"
+I397,,hey i wanna start using your platform but i'm on a tight budget. what's the cheapest plan?,high_intent,generated,with typos and no capital letters
+I398,Would you like me to get you set up on the Pro plan?,"sure, let's do it",high_intent,context_handwritten,context
+I399,,the color grading tools don't seem to work properly on some of my clips idk why,general,generated,with typos and no capital letters
