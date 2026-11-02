@@ -1,0 +1,385 @@
+id,prev_bot,text,gold,gen_label,source
+I000,Welcome to AutoStream. What would you like to know?,hey there!,greeting,greeting,context_handwritten
+I001,,"Hai, I want to sign up for the Team plan for my small crew. Can you help me with the process?",high_intent,high_intent,generated
+I002,,are there any discounts for long term subscribes like yearly payments?,product_inquiry,product_inquiry,generated
+I003,,I noticed my project file size is larger than expected. Is there a way to optimize it within the platform?,product_inquiry,general,generated
+I004,,how do i start a trial for the pro plan? 😊,high_intent,high_intent,generated
+I005,"The Pro plan costs $79 per month, or $790 per year with annual billing.",and the basic one?,product_inquiry,product_inquiry,context_handwritten
+I006,,why does the timeline jump when i add an effect,product_inquiry,general,generated
+I007,,Hello! Just had a cup of chai and thought I'd say hi. 😊,greeting,greeting,generated
+I008,,I'm experiencing intermittent crashes when exporting videos. Could you please assist or suggest some troubleshooting steps?,product_inquiry,general,generated
+I009,,"If I’m on the Basic plan, can I export my videos in 4K?",product_inquiry,product_inquiry,generated
+I010,,i currently on the free plan but i need more features for my channel. can i upgrade to basic somehow?,high_intent,high_intent,generated
+I011,Is there anything else I can help with?,"yes, how do I cancel later if needed?",product_inquiry,product_inquiry,context_handwritten
+I012,,"i want to buy the pro plan, what are my next steps?",high_intent,high_intent,generated
+I013,"The Pro plan costs $79 per month, or $790 per year with annual billing.",does that include captions?,product_inquiry,product_inquiry,context_handwritten
+I014,,"Hello, I need to speak with sales to discuss bulk licensing for my team. Who should I contact?",high_intent,high_intent,generated
+I015,,"The video timeline keeps freezing, is there a fix?",product_inquiry,general,generated
+I016,,Hello! Any news from the video-editing world today?,general,greeting,generated
+I017,,Found a nice tip on video editing on Insta. Can u guys support more formats like .mov?,product_inquiry,general,generated
+I018,,What happens if I upgrade from Free to Basic later on? Do I lose anything?,product_inquiry,product_inquiry,generated
+I020,,"Hey there, do you guys offer any sort of free trial or just straight-up plans?",product_inquiry,product_inquiry,generated
+I021,,How can I get notified about new updates?,product_inquiry,general,generated
+I022,,any chance u rlease updates on new feaures or when?,product_inquiry,product_inquiry,generated
+I023,,"Hey, noticed my video rendering is super slow today. Any ideas?",product_inquiry,general,generated
+I024,Welcome to AutoStream. What would you like to know?,what can you do?,product_inquiry,general,context_handwritten
+I025,,Hello! Hope you're having a great day. Chat soon!,greeting,greeting,generated
+I026,,Hello! Just passing by to share some good vibes your way. 🌟,greeting,greeting,generated
+I027,,im interested in signing up for ur basic plan. how long does it take?,high_intent,high_intent,generated
+I028,,"good afternoon! there’s some lovely weather today, isn’t there?",greeting,greeting,generated
+I029,,is it going to take ages to render this at night or will it be quick,product_inquiry,general,generated
+I030,,I am having trouble applying certain effects in my video projects. The effects don't seem to render properly. Could you help me resolve this?,product_inquiry,general,generated
+I031,,I'm all set to upgrade. Where do I sign?,high_intent,high_intent,generated
+I033,,"I am sharing my work with a collaborator, but they are unable to access the project. Could there be a permission setting I've missed?",product_inquiry,general,generated
+I034,"The Pro plan costs $79 per month, or $790 per year with annual billing.",what about yearly for team?,product_inquiry,product_inquiry,context_handwritten
+I035,,I'm a fan. How can I upgrade my current plan with you guys?,high_intent,high_intent,generated
+I036,,does the enterprise plan allow integration with existing editing software or tools we currently use?,product_inquiry,product_inquiry,generated
+I037,,Just realized I'm missing some video assets. Can I get a heads-up when they're back?,product_inquiry,general,generated
+I038,,i hav a team of creators who might need ur service. how does the team plan work?,product_inquiry,high_intent,generated
+I039,,hey! hope you’re having an awesome day. i just had a good laugh watching some cat videos!,greeting,greeting,generated
+I040,,Hello! I hope your day is as enjoyable as your service.,greeting,greeting,generated
+I041,,"hi there, im thinking about subscribing to ur services but wanna know more about ur pricing. any deets?",product_inquiry,high_intent,generated
+I042,,Hey guys! What’s new in the world of video editing lately?,general,greeting,generated
+I043,,hello. im interested in your enterprise plan. who can i talk to about a custom setup?,high_intent,high_intent,generated
+I044,,"Hey, just wanted to say I love your platform! Keep up the great work.",general,greeting,generated
+I045,,i want to sign up for the team plan but have qstions first,high_intent,high_intent,generated
+I046,,"Hello! How have you been? It's a lovely day, right?",greeting,greeting,generated
+I047,,whats the process for subscribing to autostrm?,high_intent,high_intent,generated
+I048,Monthly plans can be refunded within 7 days of the first charge.,"alright then I'm in, let's subscribe",high_intent,high_intent,context_handwritten
+I049,,Hello! How are things going at AutoStream? 😊,greeting,greeting,generated
+I050,,"Hello! I’ve heard AutoStream has a range of plans but I’m particularly interested in the Team plan. How many team members can I include, and what kind of collaborative features does it support? Are there any specific team management tools included?",product_inquiry,product_inquiry,generated
+I051,,Greetings! Anyone making epic edits today?,greeting,greeting,generated
+I052,,Hey! Hope you're enjoying the festive season.,greeting,greeting,generated
+I053,Welcome to AutoStream. What would you like to know?,i want to buy,high_intent,high_intent,context_handwritten
+I054,,"Hi there! How have you been? Just wanted to share a quick hello, enjoying a lovely afternoon myself.",greeting,greeting,generated
+I055,,Thinking about upgrading from Basic to Team. Can you tell me more about the benefits?,product_inquiry,high_intent,generated
+I056,,Namaste! Just saw the new feature update and wanted to say hi.,greeting,greeting,generated
+I057,Is there anything else I can help with?,"actually yes, I'd like to sign up now",high_intent,high_intent,context_handwritten
+I058,,can someone from sales chat with me about enterprise options?,high_intent,high_intent,generated
+I059,,"Hey, just curious about how much the Pro plan costs?",product_inquiry,product_inquiry,generated
+I060,,i can't find the save button on my vid pro,product_inquiry,general,generated
+I061,,"Hi, I've been trying to implement a split-screen effect for my latest interview, but the transitions between the split-screen and the regular views are jarring. Is there a way to customize these transitions or perhaps a feature I might be missing that's better suited for this kind of effect?",product_inquiry,general,generated
+I062,"The Pro plan costs $79 per month, or $790 per year with annual billing.","great, that helps",general,general,context_handwritten
+I063,,Are there any mobile apps available for AutoStream that are compatible with both iOS and Android devices?,product_inquiry,product_inquiry,generated
+I064,,Do any of the plans allow cloud storage or is that extra?,product_inquiry,product_inquiry,generated
+I065,,im curious about the app do u hav a mobile version for both ios and android?,product_inquiry,product_inquiry,generated
+I066,,"Hello! It's a beautiful day, isn't it? Wishing you all the best!",greeting,greeting,generated
+I067,,Hello! I am interested in purchasing the Pro plan for AutoStream. Can you guide me through the process?,high_intent,high_intent,generated
+I068,,hey there! how’s everything going with y'all today?,greeting,greeting,generated
+I069,,Do you offer any trial periods before committing to a plan?,product_inquiry,product_inquiry,generated
+I070,,Was thinking about my latest video project over here. Loving the editing tools!,general,greeting,generated
+I071,,"Hey, I've been wondering how often payments are due for the Basic plan. Is it monthly or annual?",product_inquiry,product_inquiry,generated
+I072,,"I recently updated the app, and now my timeline is behaving unusually. Are there any known issues with the latest version?",product_inquiry,general,generated
+I073,,I am currently experiencing syncing issues between my devices. They don't reflect the same project status. Any advice on this?,product_inquiry,general,generated
+I074,,Namaste! How's the day treating you?,greeting,greeting,generated
+I075,,"Hi, how often does AutoStream update their feature list for the Pro plan? I want to make sure it stays current.",product_inquiry,product_inquiry,generated
+I076,,why doesn't my video export come out clean sometimes? its weird,product_inquiry,general,generated
+I077,,"I'm trying to decide if AutoStream is the right choice for my current projects. Could you provide some examples of customer use cases for the Free, Basic, and Pro plans? I'm particularly interested in learning about different industries that utilize your platform.",product_inquiry,product_inquiry,generated
+I078,,does autoStream hv any discounts for new subscribers?,product_inquiry,product_inquiry,generated
+I079,,Hi there! Hope all is well. Any new updates on the platform?,product_inquiry,greeting,generated
+I080,,Interested in the video editing features. What's the process for starting a Basic plan?,high_intent,high_intent,generated
+I081,,"Dear team, I wish to subscribe to the Basic plan. Kindly assist with the necessary steps.",high_intent,high_intent,generated
+I083,,"Hello, I'm trying to do a time-lapse sequence and I'm struggling with the frame rate settings. The final output either looks choppy or too fast. Is there a guide available on how to configure the settings for smooth time-lapse transitions? Any help would be much appreciated!",product_inquiry,general,generated
+I084,,i was wondering if there are mobile apps for the service?,product_inquiry,product_inquiry,generated
+I085,,hello! just a quick hello to see how you're doing. take care!,greeting,greeting,generated
+I086,,hey the video preview is not loading right i think my internet's fine what's going on here?,product_inquiry,general,generated
+I087,,Notifications for project updates are delayed. Made a couple of changes but only saw them late.,product_inquiry,general,generated
+I088,,"Hi, what level of customer support can a user expect with the Free plan? Is it just email?",product_inquiry,product_inquiry,generated
+I089,,"Hi, just exploring options. Do you guys offer any kind of trial period to test AutoStream's features?",product_inquiry,product_inquiry,generated
+I090,,Hi! Hope things are going smoothly with you.,greeting,greeting,generated
+I091,,"Hello, I’m looking to contact sales about the Enterprise plan. Can someone connect me, please?",high_intent,high_intent,generated
+I092,"The Pro plan costs $79 per month, or $790 per year with annual billing.",thanks!,general,general,context_handwritten
+I093,,i run a youtube channel and im considering ur service. how do i contact sales for more info?,high_intent,high_intent,generated
+I094,,"hey, just a quick check-in. hope you're not too swamped with work!",greeting,greeting,generated
+I095,,Could you provide more information on the subscription process for the Enterprise plan?,product_inquiry,high_intent,generated
+I097,,I've been using the Free version of AutoStream and would like to explore the Enterprise package. Can someone guide me through the upgrade process?,high_intent,high_intent,generated
+I098,,I am interested in subscribing to AutoStream's Pro plan. Could you please guide me on how to proceed?,high_intent,high_intent,generated
+I099,,I am interested in discussing the benefits of AutoStream's Team plan with a sales representative. How can I arrange this?,high_intent,high_intent,generated
+I100,,Resham ki saree ka design bikta hai yi video editing app mein. Koi suggest kar sakta hai kaise?,general,general,generated
+I101,,What's up? Hope you're doing well!,greeting,greeting,generated
+I102,Would you like me to get you set up on the Pro plan?,"not right now, thanks",general,general,context_handwritten
+I103,,Hello! It's lovely to engage with your team at AutoStream.,greeting,greeting,generated
+I104,,hi there! just wanted to say hi before i jump into editing my latest project!,greeting,greeting,generated
+I105,Would you like me to get you set up on the Pro plan?,yes please,high_intent,high_intent,context_handwritten
+I106,,Could you clarify the difference between the Basic and Pro plans in terms of cloud storage capacity?,product_inquiry,general,generated
+I107,,"Hi there, I am curious abt the App support for mobile devices. Does AutoStream work on Android n iOS both?",product_inquiry,product_inquiry,generated
+I109,,Got any tips for better transitions?,product_inquiry,general,generated
+I110,,hey! i was just thinking about how much i enjoy editing on autosream. all good?,general,greeting,generated
+I111,,"Meri plan upgrade, Basic to Pro, se mukkam hoga. Please let me know how to proceed.",high_intent,high_intent,generated
+I112,,my friend says they can't see my uploads on their side but everything looks cool on mine,product_inquiry,general,generated
+I113,,hello! how's the team holding up? i know how busy it gets!,greeting,greeting,generated
+I114,,"Hi, I'm considering auto-hyperlink feature for my videos. Is this available in Team plan?",product_inquiry,product_inquiry,generated
+I115,,How does the billing process work for recurring payments on AutoStream?,product_inquiry,product_inquiry,generated
+I116,,could i speak to someone about upgrading to pro?,high_intent,high_intent,generated
+I117,,I would like to sign up for your video-editing platform. Could I speak with a sales representative to discuss potential plans?,high_intent,high_intent,generated
+I118,,Thinking of moving to Team. Can someone help?,high_intent,high_intent,generated
+I119,,Hi there! I'd like to chat about upgrading to a higher tier. Could we touch base?,high_intent,high_intent,generated
+I120,,Thinking of subscribing to your platform. How do I get started?,high_intent,high_intent,generated
+I121,,"Hi, I recently discovered AutoStream and I'm considering it for my upcoming projects. Before I make any commitments, I want to understand your refund policy better. Could you explain the process if I decide to cancel a subscription and what the conditions are for a refund?",product_inquiry,product_inquiry,generated
+I122,,What's going on? Hope you're having a productive day!,greeting,greeting,generated
+I123,,"hey, im curious about a trial of ur platform. is there any limit on how long i can try it?",product_inquiry,high_intent,generated
+I124,,Good afternoon! Just dropping by to say a quick hello.,greeting,greeting,generated
+I125,,Hello! Just wanted to catch up and say hi!,greeting,greeting,generated
+I126,,Hi! Just wanted to take a moment and say that your platform is helping me greatly.,general,greeting,generated
+I127,,Good day! I would like to subscribe to the Basic plan. What are the steps to get started?,high_intent,high_intent,generated
+I128,,Good afternoon! Just wanted to drop by and say hello.,greeting,greeting,generated
+I129,,I would appreciate assistance with signing up for a Pro plan. Can you guide me through the necessary steps?,high_intent,high_intent,generated
+I130,Students get 50% off the Pro plan.,"I'm a student, can I get that?",product_inquiry,high_intent,context_handwritten
+I131,,Can we talk about signing up for your Enterprise package? I’m keen to learn more.,high_intent,high_intent,generated
+I132,AI captions support 32 languages.,hindi included?,product_inquiry,product_inquiry,context_handwritten
+I133,,can i try out your pro plan for a couple of days? how do i set up a trial?,high_intent,high_intent,generated
+I134,,"when i export it, the audio desyncs",product_inquiry,general,generated
+I135,,Good morning! Hope everyone at AutoStream is doing well.,greeting,greeting,generated
+I136,,"Hi, I was curious about the community forums. I've been looking for a space to share some tips and maybe get feedback on my work. Is there an online community where creators gather to discuss techniques or share projects?",product_inquiry,general,generated
+I137,,Hello! Wishing you and your team all the best.,greeting,greeting,generated
+I138,,"Hey, I'm ready to buy the Pro plan today. Can you guide me through the payment process?",high_intent,high_intent,generated
+I139,,Hi! Just checking in. What's new with you?,greeting,greeting,generated
+I140,,"I'm curious, what's the price difference between Basic and Team?",product_inquiry,product_inquiry,generated
+I141,,i opened a ticket about the sync problem like a week ago but no response yet,product_inquiry,general,generated
+I142,Welcome to AutoStream. What would you like to know?,just browsing,general,general,context_handwritten
+I143,,heya! i saw the latest blog post and it was pretty cool!,general,greeting,generated
+I144,,what kind of customer support do you offer for someone on the basic plan?,product_inquiry,product_inquiry,generated
+I145,,"Hello, I'm interested in knowing more about AutoStream's various plans. Can you explain the difference b/w Free and Pro plans?",product_inquiry,product_inquiry,generated
+I146,,I am interested in subscribing to the Pro plan of AutoStream. Could you please provide more details on how to proceed with the purchase?,high_intent,high_intent,generated
+I147,,Namaste! I want to discuss the Enterprise plan with sales. How do I reach them?,high_intent,high_intent,generated
+I148,Basic includes 10 video exports per month at up to 720p.,is there anything cheaper?,product_inquiry,product_inquiry,context_handwritten
+I149,,Free trial sounds great. How can I get started?,high_intent,high_intent,generated
+I150,,"I'm interested in the features AutoStream offers across different plans. Could you elaborate on any unique editing tools or templates that are exclusive to premium plans? Also, is there any kind of feature roadmap available for future updates?",product_inquiry,product_inquiry,generated
+I151,,i wanna kno what happens with billing at the end of the period also can i pause if i need to?,product_inquiry,product_inquiry,generated
+I152,,i got this weird error message when i saved and idk how to fix it,product_inquiry,general,generated
+I153,,i wanna know if there s any limit to file size i can upload using the pro plan,product_inquiry,product_inquiry,generated
+I154,Team includes 5 seats; extra seats are $35 per month each.,ok put us down for team with 8 seats,high_intent,high_intent,context_handwritten
+I155,Shall I connect you with our sales team about Enterprise?,"yes, please have someone call me",high_intent,high_intent,context_handwritten
+I156,,I am keen to start a trial for your platform and would like to understand the steps involved. Can you assist?,high_intent,high_intent,generated
+I157,,"Hello, can you provide details on mobile app support for Pro users? Is it available on Android?",product_inquiry,product_inquiry,generated
+I158,,Is it possible to collaborate on projects with someone offline?,product_inquiry,general,generated
+I159,,interested in the basic plan but need more details,product_inquiry,high_intent,generated
+I160,,Greetings! I just wanted to take a moment to share a friendly hello with you.,greeting,greeting,generated
+I161,,"Namaste, can you tell me about the billing cycle for the Enterprise plan on AutoStream?",product_inquiry,product_inquiry,generated
+I162,,"Can ya tell me more 'bout the Enterprise plan? Like, what additional services r available for big teams?",product_inquiry,product_inquiry,generated
+I163,Team includes 5 seats; extra seats are $35 per month each.,"we need 8, how much is that?",product_inquiry,product_inquiry,context_handwritten
+I164,"The Pro plan costs $79 per month, or $790 per year with annual billing.",ok I'll take the annual one,high_intent,high_intent,context_handwritten
+I165,,Hi! How's the weather treating you today?,greeting,greeting,generated
+I166,,Can I link my other social media accounts directly from AutoStream?,product_inquiry,general,generated
+I167,,Are there any discounts available for long-term commitments or enterprise contracts with AutoStream?,product_inquiry,product_inquiry,generated
+I168,,Could you assist me with upgrading to the next available plan? I would also appreciate any promotional offers that might be available.,high_intent,high_intent,generated
+I169,,"hey there! just thought I'd say hi, how's everything going?",greeting,greeting,generated
+I170,,"Hello, I wanted to know if there's any discount on yearly plans or any ongoing promos?",product_inquiry,product_inquiry,generated
+I171,,how can i upgrade from team to enterprise?,high_intent,high_intent,generated
+I172,,"hi there, just dropping by to say hello. hope all is well on your end!",greeting,greeting,generated
+I173,,Hi! How's everyone doing at AutoStream?,greeting,greeting,generated
+I174,,Hi there! Hope you're having a productive day!,greeting,greeting,generated
+I176,,my team was using the pro version but now everything looks different since we switched accounts is that normal?,product_inquiry,general,generated
+I177,Is there anything else I can help with?,"no that's all, bye",general,general,context_handwritten
+I178,,I would like to know if there are any upcoming features planned for future releases that I should be aware of.,product_inquiry,general,generated
+I179,Monthly plans can be refunded within 7 days of the first charge.,what if I paid yearly?,product_inquiry,product_inquiry,context_handwritten
+I180,,I'm thinking of startin my channel but worried 'bout billing. Are there any hidden charges in the Pro plan?,product_inquiry,product_inquiry,generated
+I181,Would you like to start the 14-day free trial?,"yes, sign me up",high_intent,high_intent,context_handwritten
+I182,,Hey! Just wanted to say a quick bolo. Are you doing well?,greeting,greeting,generated
+I183,,Hi! It's been a while since I last touched base. Let's catch up.,greeting,greeting,generated
+I184,,hey there! just wanted to say hi and hope you're doing well. 😊,greeting,greeting,generated
+I185,,Namaste! Just checking in to see how things are with the platform.,greeting,greeting,generated
+I186,,I am interested in signing up for a Free trial to explore AutoStream's features. How can I get started?,high_intent,high_intent,generated
+I187,,I encountered an issue with my video export; it seems to be stuck halfway through the process.,product_inquiry,general,generated
+I188,,Could you kindly outline the key features included in AutoStream's Basic plan compared to the Pro plan?,product_inquiry,product_inquiry,generated
+I189,Is there anything else I can help with?,"good evening, no thanks",general,general,context_handwritten
+I191,,"Having trouble logging in, it just keeps timing out.",product_inquiry,general,generated
+I192,,Is there 24/7 support for the Enterprise plan or just business hours?,product_inquiry,product_inquiry,generated
+I193,,Why's my account showing the wrong subscription level?,product_inquiry,general,generated
+I194,,"hello! just passing through to say hi, how's it going?",greeting,greeting,generated
+I195,,hey i was just wondering what the difference is between the basics and pro plans does the pro include better stabilization tools,product_inquiry,product_inquiry,generated
+I196,,Could you provide guidance on best practices for managing high-resolution footage within AutoStream to avoid performance bottlenecks?,product_inquiry,general,generated
+I197,,Hi there! I want to start a trial for your Pro version. What do I need to do?,high_intent,high_intent,generated
+I198,,Hi! How have you been? Just passing by for a little chat.,greeting,greeting,generated
+I199,,"Hello, I want to sign up for AutoStream immediately. Can your sales team help me with this?",high_intent,high_intent,generated
+I200,Would you like to start the 14-day free trial?,maybe later,general,general,context_handwritten
+I201,,I would like to initiate a trial for the Team plan. Can you assist me with the necessary steps?,high_intent,high_intent,generated
+I202,,Greetings! I trust everything is going well for you.,greeting,greeting,generated
+I203,,"Meri laptop mein space nahi hai, kya video upload karne se pehle kuch compress kar sakte hain?",product_inquiry,general,generated
+I204,,"Hey, I'm just browsing. Does AutoStream support collaborative editing if I upgrade to Team plan?",product_inquiry,product_inquiry,generated
+I205,,"Dost, mujhe lagta hai ki mujhe project download karne mein kuch problem hai. Nahi samajh raha, ye kya karein?",product_inquiry,general,generated
+I206,,what's included in the basic plan? i need to know whut i get with it,product_inquiry,product_inquiry,generated
+I207,,"Hello, I am interested in signing up for an AutoStream account. What options do I have?",high_intent,high_intent,generated
+I208,,"Hey, could ya help me access my old project? I think I forgot the password. 🙄",product_inquiry,general,generated
+I209,,The collaborative editing feature seems to lag when multiple users are editing a project simultaneously. Do you have any suggestions to improve performance?,product_inquiry,general,generated
+I210,,Namaste! I am eager to sign up for a free trial of AutoStream. How do I proceed?,high_intent,high_intent,generated
+I211,,Next update mein aap basic plan me kya tools add karta hai? Kuch update milegi?,product_inquiry,general,generated
+I212,,"Hey, can I switch plans midway through a billing cycle with no hassle?",product_inquiry,product_inquiry,generated
+I213,,"Hi, I heard AutoStream has an appealing set of features for content creators. Can you give more details about the cloud storage limits for each plan? Also, are there any integrations with popular media storage or editing tools available?",product_inquiry,product_inquiry,generated
+I214,,I'm trying to sync my audio tracks but keep running into an error message. Any troubleshooting tips?,product_inquiry,general,generated
+I215,Students get 50% off the Pro plan.,how do you verify that?,product_inquiry,product_inquiry,context_handwritten
+I216,,I am interested in signing up for an AutoStream account on your Basic plan. What is the best way to begin this process?,high_intent,high_intent,generated
+I217,,"Oh woh, completely lost. This project file got corrupted somehow. Can u pls assist?",product_inquiry,general,generated
+I218,,Hey! How's everything on your end? Hope all is well.,greeting,greeting,generated
+I219,,can i talk to sales about a customized payment plan?,high_intent,high_intent,generated
+I220,,Hello! I hope you're doing well and enjoying your day.,greeting,greeting,generated
+I221,,Is there an option to start a trial for the Pro plan? I'm keen to explore its features.,high_intent,high_intent,generated
+I222,,i deleted a trim by mistake can it be undone,product_inquiry,general,generated
+I223,,"need help, my vid turns green after export",product_inquiry,general,generated
+I224,,Could you provide more information about the file format compatibility of your platform? I'm trying to import older footage but encountering errors.,product_inquiry,general,generated
+I225,,"Hi there, I have a query regarding the features included in the Basic plan. Do I get access to 4K editing?",product_inquiry,product_inquiry,generated
+I226,,can u tell me how often the billing happens fr the pro plan?,product_inquiry,product_inquiry,generated
+I227,,"Hey there, I'm really liking what I see. How can I start my Pro plan?",high_intent,high_intent,generated
+I228,,I've decided to go with AutoStream. Sign me up!,high_intent,high_intent,generated
+I229,,what's up? just wanted to say hello and check in with you!,greeting,greeting,generated
+I230,,Good morning! I hope you're having a pleasant day. I'm just dropping by to say hello!,greeting,greeting,generated
+I231,,I am considering various video editing platforms and would like to know more about AutoStream's different pricing plans. Could you please provide some details?,product_inquiry,product_inquiry,generated
+I232,,"Hello, I'm interested in subscribing to the Pro plan. Can you guide me on how to get started?",high_intent,high_intent,generated
+I233,,Hi there! I’ve been editing all morning and loving every minute of it!,general,greeting,generated
+I234,,i want to upgrd from the free plan to basic can u help?,high_intent,high_intent,generated
+I235,,"Maine apne apne friends pey sab video share ki hai, kuch ideas chahiye project ki promotion ke liye.",general,general,generated
+I236,,"I noticed that the latest update has changed the layout of the timeline interface significantly. Is this a permanent change, or are there options to revert to the previous layout?",product_inquiry,general,generated
+I237,,signing up for vidoeditng is easy? plz guide,high_intent,high_intent,generated
+I238,,Hi! I’m interested in purchasing AutoStream. Can you direct me to sales for more details?,high_intent,high_intent,generated
+I239,,"hey, just a quick hello from one corner of the internet to another. hope all is well!",greeting,greeting,generated
+I240,,Can someone explain why my annotations disappeared?,product_inquiry,general,generated
+I241,,so i tried converting the file to mp4 like u suggested but it's still not right,product_inquiry,general,generated
+I243,,Good morning! Wishing you all a vibrant and creative day ahead.,greeting,greeting,generated
+I244,,The subtitles auto-generated are off-sync. Any quick fix for this?,product_inquiry,general,generated
+I245,,"Hello, I'm curious about whether the Enterprise plan includes dedicated account support.",product_inquiry,product_inquiry,generated
+I246,,Do you guys offer any tutorials for advanced effects?,product_inquiry,general,generated
+I247,,"Hello, I came across the Basic plan but I'm not sure if it's the right fit. Can you provide specific details on pricing?",product_inquiry,product_inquiry,generated
+I248,Basic includes 10 video exports per month at up to 720p.,"cool, upgrade me to basic",high_intent,high_intent,context_handwritten
+I249,,Greetings! I'm pleased to connect with a reputable service like yours.,general,greeting,generated
+I250,,I wanna know if there are tutorials or customer support for self-learners who wanna use AutoStream?,product_inquiry,product_inquiry,generated
+I251,,hw do u cancel subscription if i hv the basic plan? needs to hv tutorials,product_inquiry,product_inquiry,generated
+I252,,"The export took ages today, like twice the usual time. Why's that happening, ya know?",product_inquiry,general,generated
+I253,,"Got a question about billing. Do you charge annually, monthly or both?",product_inquiry,product_inquiry,generated
+I254,,i deleted a part of my vid by accident can i undo that somehow?,product_inquiry,general,generated
+I255,,Hey there! How's it going?,greeting,greeting,generated
+I256,,can i upgrade from pro to enterprise plan directly? how much extra will it cost?,product_inquiry,high_intent,generated
+I257,,planning fo dnext update... any new stuff comin to autoStream soozoon?,product_inquiry,product_inquiry,generated
+I258,,Good day! I decided to send a little hello your way. Hope it finds you well!,greeting,greeting,generated
+I259,,Mujhe lagta hai ki meri last edited video mein ek typo hai. Koi easy fix hai kya?,product_inquiry,general,generated
+I260,Welcome to AutoStream. What would you like to know?,pricing,product_inquiry,product_inquiry,context_handwritten
+I261,,"Hey, what are the payout policies for AutoStream? I'm curious about the payout frequency.",product_inquiry,product_inquiry,generated
+I262,,I'm curious about the billing cycle for AutoStream subscriptions. How is it structured?,product_inquiry,product_inquiry,generated
+I263,,"I noticed ads popping up mid-edit, is that normal?",product_inquiry,general,generated
+I264,,What are the benefits or incentives for long-term subscriptions to AutoStream's services?,product_inquiry,product_inquiry,generated
+I265,,Hello! Wanted to drop by with a friendly hello. Enjoying the day here.,greeting,greeting,generated
+I266,,Wondering about cancellation policies—do you charge for unused time?,product_inquiry,product_inquiry,generated
+I267,,I wish to upgrade my current subscription. What are the available options and how can I proceed with a change?,high_intent,high_intent,generated
+I268,,"i dont kno y but im not able to log in to my acc, whts up with that?",product_inquiry,product_inquiry,generated
+I269,,Greetings! I hope you're having a happy day.,greeting,greeting,generated
+I270,,Hey! Appreciating all the hard work you guys do. Hope it's going well for everyone.,general,greeting,generated
+I272,,"I think there’s a bug in the subtitle generator, can you help?",product_inquiry,general,generated
+I273,,"fr the free version, what features am i missing compared to paid plans?",product_inquiry,product_inquiry,generated
+I274,,i changed something to get rid of noise in the clips but now the quality dropped too much,product_inquiry,general,generated
+I275,,Could you provide details on how to upgrade from my current Free plan to a more advanced one? I am particularly interested in the Basic plan.,high_intent,high_intent,generated
+I276,,Wanna give your service a go. How do I sign up for a trial?,high_intent,high_intent,generated
+I277,,idk if i should go for the free plan or basic what are the specific benefits of basic?,product_inquiry,product_inquiry,generated
+I279,Basic includes 10 video exports per month at up to 720p.,and 4k?,product_inquiry,product_inquiry,context_handwritten
+I280,,Can I upgrade any time or is there a specific time of year for plan changes?,product_inquiry,product_inquiry,generated
+I281,,"Namaste, I want to know if AutoStream has direct integration with other SaaS like Canva or Adobe?",product_inquiry,product_inquiry,generated
+I282,,Why aren't my custom keyboard shortcuts working?,product_inquiry,general,generated
+I283,,anybody else get weird glitches when exporting,product_inquiry,general,generated
+I284,,I'm currently on the Free plan and I want to upgrade to Team. What are the steps?,high_intent,high_intent,generated
+I285,,I'm interested in learning more about the pricing structure for the AutoStream platform. Could you elaborate on that?,product_inquiry,product_inquiry,generated
+I286,,Good morning! Hope you’re having a sweet day.,greeting,greeting,generated
+I287,,What's the process to upgrade to Team?,high_intent,high_intent,generated
+I288,,"Namaste, I would love to try out the Free plan as a beginner before deciding to upgrade. How can I start a trial?",high_intent,high_intent,generated
+I289,,How do I get my team access to this project?,product_inquiry,general,generated
+I290,AI captions support 32 languages.,nice,general,general,context_handwritten
+I291,,"Hi, I'm getting error messages every time I try to export my videos to Instagram. It says something about incompatible formats, but I can't figure out what I'm doing wrong. What are the best settings to use if I want to share my edits directly on social media platforms like Instagram or TikTok?",product_inquiry,general,generated
+I292,,Can you explain the upgrade or downgrade policy for AutoStream plans? Is there a penalty involved?,product_inquiry,product_inquiry,generated
+I293,,"i wanna sign up for ur platform, how do i start?",high_intent,high_intent,generated
+I294,,Does the Basic plan allow collaboration with other users?,product_inquiry,product_inquiry,generated
+I295,,how do i get started with the free plan?,high_intent,high_intent,generated
+I296,,"Hello, I've been looking into various video-editing solutions and AutoStream caught my attention. I'm wondering about your billing cancellation policy. How easy is it to cancel a subscription and are there any associated fees?",product_inquiry,product_inquiry,generated
+I297,,Could you please connect me with a sales representative? I’m interested in discussing the features and pricing of the Team plan.,high_intent,high_intent,generated
+I298,,is there any difference in video export quality between the free and enterprise plan?,product_inquiry,product_inquiry,generated
+I299,,Yo! How's it all going over in the tech support side?,greeting,greeting,generated
+I300,,I've been noticing slower rendering times compared to my previous experience with AutoStream. Could this be due to server-side issues?,product_inquiry,general,generated
+I301,,i noticed a lag when i apply this transition effect in high-res vids can u help?,product_inquiry,general,generated
+I302,,"Ek Bollywood song video bana rahaa hu, aapko toh suna hi thi kya? Sabse badi kaafi zaruri ho gai.",general,general,generated
+I303,Welcome to AutoStream. What would you like to know?,hello again,greeting,greeting,context_handwritten
+I304,Monthly plans can be refunded within 7 days of the first charge.,ok good to know,general,general,context_handwritten
+I305,,Wondering if the Enterprise plan has any team management features?,product_inquiry,product_inquiry,generated
+I306,,The last tutorial was awesome! Learned a lot.,general,general,generated
+I307,,"Hi, I want to upgrade from the Free plan to the Team plan. Could you assist me?",high_intent,high_intent,generated
+I308,,Hello! I hope you're enjoying your day. Let's have a small chat!,greeting,greeting,generated
+I309,,Where's the option to customize the color of my video thumbnails? Can't seem to find it.,product_inquiry,general,generated
+I310,,Hi! Just wanted to share that I'm enjoying using AutoStream.,general,greeting,generated
+I311,,Hi! What's the refund policy if I don't like the service after my first month?,product_inquiry,product_inquiry,generated
+I312,,Can you provide information on how customers can access support if they encounter issues with AutoStream?,product_inquiry,product_inquiry,generated
+I313,,I'm curious about integration possibilities with third-party software. Does AutoStream support any plugin systems?,product_inquiry,general,generated
+I314,,I would like to initiate a subscription to your Enterprise plan. Who do I contact for personalized customer support?,high_intent,high_intent,generated
+I315,,Pls send me the details for the team meeting scheduled for tomorrow.,general,general,generated
+I316,,i need to buy the basic plan but not sure how.,high_intent,high_intent,generated
+I317,,I accidentally deleted a project and can't find it in the recovery section. Is there any way to retrieve it?,product_inquiry,general,generated
+I318,,"Namaste, I want to subscribe to your platform. Which plan is best for a solo content creator like me?",high_intent,high_intent,generated
+I319,,Could I get more information on what kind of analytics or reporting tools are available with the Pro plan?,product_inquiry,product_inquiry,generated
+I320,,Are there any specific policies regarding data storage or privacy on AutoStream's platform?,product_inquiry,product_inquiry,generated
+I322,,Sometimes the color grading tools return an error when applied to multiple clips. Is there a known limitation or workaround for this issue?,product_inquiry,general,generated
+I323,,I recently upgraded to the Pro plan but I'm still seeing the limitations of my previous Free tier on some features. Is there an activation issue?,product_inquiry,general,generated
+I324,Team includes 5 seats; extra seats are $35 per month each.,let me check with my boss,general,general,context_handwritten
+I325,,"Hey there, could you tell me what features come with the Pro plan?",product_inquiry,product_inquiry,generated
+I326,,I've been experiencing some lag when applying effects; could this be related to my device's specifications?,product_inquiry,general,generated
+I327,Would you like me to get you set up on the Pro plan?,ok go ahead,high_intent,high_intent,context_handwritten
+I328,,Are there hidden fees I should know about with any of these plans?,product_inquiry,product_inquiry,generated
+I329,,"Hey! It's a beautiful day, huh?",greeting,greeting,generated
+I330,,"hi, just stopping by to say hi! hope things are going well for you.",greeting,greeting,generated
+I331,,What kind of support do you offer for the Free plan?,product_inquiry,product_inquiry,generated
+I332,,"I've been getting random error messages while editing, any help?",product_inquiry,general,generated
+I333,"The Pro plan costs $79 per month, or $790 per year with annual billing.","perfect, I want that",high_intent,high_intent,context_handwritten
+I334,,I am interested in trying out AutoStream's services. Can I get a trial of the Basic plan?,high_intent,high_intent,generated
+I335,,Is there a way to merge clips from multiple projects at once?,product_inquiry,general,generated
+I336,,Why did my project save suddenly revert to an old version?,product_inquiry,general,generated
+I337,,"Hello, I'm new to your platform and I'm trying to perform color correction on a series of interviews, but I'm not getting the results I want. It either desaturates too much or ends up looking unnatural. Could you provide some insight or resources on how to achieve a more natural, consistent look?",product_inquiry,general,generated
+I338,,"hello, just a quick hello from the other side. have a great day!",greeting,greeting,generated
+I339,,"Hello, can ya explain the difference in editing tools between Basic n Pro plans? Not sure which one suits me better.",product_inquiry,product_inquiry,generated
+I340,,"Just wondering, how long does billing last before it auto-renews?",product_inquiry,product_inquiry,generated
+I342,,Could you explain how the pricing varies between individual plans and the Team plan?,product_inquiry,product_inquiry,generated
+I343,,i'm always getting low storage warnings despite cleaning up,product_inquiry,general,generated
+I344,Would you like to start the 14-day free trial?,yeah why not,high_intent,high_intent,context_handwritten
+I345,,"I'm currently using a competitor’s video-editing software and am evaluating alternatives. Can you explain the support policies at AutoStream? Specifically, what levels of customer support are provided across different plans and how quickly can I expect responses?",product_inquiry,product_inquiry,generated
+I346,,"Was thinking, is there an app for AutoStream or do I have to use the browser?",product_inquiry,product_inquiry,generated
+I347,,"I'd like to know more about any apps that AutoStream offers for mobile editing. Are these included in all plans, or are they separate?",product_inquiry,product_inquiry,generated
+I348,,could u explain the refund policy im slightly unclear about it,product_inquiry,product_inquiry,generated
+I349,,i heard ur platform is great for content creators. where do i go to sign up?,high_intent,high_intent,generated
+I350,,What are the conditions for upgrading from the Free plan to a paid plan with AutoStream?,product_inquiry,product_inquiry,generated
+I351,,Could you please provide more details about the different subscription plans AutoStream offers and what features each includes?,product_inquiry,product_inquiry,generated
+I352,,I'm thinking about upgrading from Basic to Pro. How do I go about doing that?,high_intent,high_intent,generated
+I353,,Hello! How is everything with you today? Just wanted to reach out with a friendly message.,greeting,greeting,generated
+I354,,im on ur free plan and loving it but i need more storage. how do i switch to basic?,high_intent,high_intent,generated
+I355,,hi! just wanted to say hi and see how you're doing.,greeting,greeting,generated
+I356,,Hey there! Hope you're all doing well amidst the Diwali buzz.,greeting,greeting,generated
+I357,,Can you describe the key features that differentiate the Pro plan from the Basic plan at AutoStream?,product_inquiry,product_inquiry,generated
+I358,"The Pro plan costs $79 per month, or $790 per year with annual billing.",too expensive for me,general,general,context_handwritten
+I359,,"Can we integrate some AI suggestions for video effects, like this chick did on her channel?",product_inquiry,general,generated
+I360,,I am eager to learn more about the Pro plan. Could you direct me to someone from the sales team who can discuss this in detail?,high_intent,high_intent,generated
+I361,,"Just wondering, what makes the Team plan different from the Pro?",product_inquiry,product_inquiry,generated
+I362,,I’m exploring options for team collaboration tools in video editing. What features does AutoStream offer in its Team plan?,product_inquiry,product_inquiry,generated
+I363,,"hiya! just wanted to say hello, how are you today?",greeting,greeting,generated
+I364,,Could someone help me get started with a basic subscription?,high_intent,high_intent,generated
+I365,,I'm curious about the billing cycle AutoStream uses. How often are charges applied for each plan?,product_inquiry,product_inquiry,generated
+I367,,Is there an app for AutoStream to edit on my phone?,product_inquiry,product_inquiry,generated
+I368,,Greetings! Hope all is well on your end. It's always nice to start conversations with a warm hello.,greeting,greeting,generated
+I370,,"Meri ek company ka hai, aur hum chahte hain ki Enterprise plan ke haq mein paid honge. Please guide me.",high_intent,high_intent,generated
+I371,,Is there a way to automate certain repetitive tasks in my editing workflow? I'm aiming for more efficiency.,product_inquiry,general,generated
+I372,,What's the process to start a 30-day trial of the Team plan?,high_intent,high_intent,generated
+I373,,Hi there! I wanted to take a moment to reach out and say hello.,greeting,greeting,generated
+I374,,There are occasional issues with the subtitles sync when I export. Is there a recommended practice to ensure the subtitles match up correctly?,product_inquiry,general,generated
+I375,,"Hi, I'm exploring options for a platform that can assist with my business content creation needs. Can you tell me more about the Enterprise plan at AutoStream? What are the customization options available and how do they benefit larger teams?",product_inquiry,product_inquiry,generated
+I377,,Are there any tutorials available for first-time users?,product_inquiry,product_inquiry,generated
+I378,,Let's get me on the Pro plan. How do I proceed?,high_intent,high_intent,generated
+I379,,"hi! just a casual hi, hope you're having a great day!",greeting,greeting,generated
+I380,,I'm interested in Enterprise. Who do I talk to for sales?,high_intent,high_intent,generated
+I381,,Is there an option to try AutoStream on a trial basis before subscribing to a paid plan?,product_inquiry,product_inquiry,generated
+I382,,"Hey there! The weather today is absolutely delightful, wouldn't you agree? It just puts me in such a creative mood, making me want to dive into a new project on AutoStream. It's evenings like these that make me appreciate having such a sleek platform to bring my ideas to life. How has your day been?",greeting,greeting,generated
+I383,,Greetings! I appreciate all the hard work you've put into this service.,general,greeting,generated
+I384,,Send me the steps to get a trial going!,high_intent,high_intent,generated
+I385,,hello! just passing through. how’s everything going over on the autosream side?,greeting,greeting,generated
+I386,Students get 50% off the Pro plan.,haha I wish I was still a student,general,general,context_handwritten
+I387,,my vids keep stuttering when i play back,product_inquiry,general,generated
+I388,,How do I get started with auto-renewal for my Pro plan?,product_inquiry,high_intent,generated
+I390,,I noticed some of my recent edits weren't saved before the app crashed. Is there a recovery feature to retrieve those changes?,product_inquiry,general,generated
+I391,,Hey! Just thought to let you know I'm here and doing good.,greeting,greeting,generated
+I392,,"Just realized I can't export in 4K with my current plan, what do I do?",product_inquiry,general,generated
+I393,,Good morning! I hope you're having a pleasant day.,greeting,greeting,generated
+I394,,"Hey! It's a beautiful day, isn't it? Hope your side’s not too busy.",greeting,greeting,generated
+I395,,Greetings! Just saying hello and hoping you have a fantastic day!,greeting,greeting,generated
+I396,,"Mujhe Dilliw mein auto stream se milne waali event ka pata hai kya? Dost, kaafi interesting lagta hai.",product_inquiry,general,generated
+I397,,hey i wanna start using your platform but i'm on a tight budget. what's the cheapest plan?,high_intent,high_intent,generated
+I398,Would you like me to get you set up on the Pro plan?,"sure, let's do it",high_intent,high_intent,context_handwritten
+I399,,the color grading tools don't seem to work properly on some of my clips idk why,product_inquiry,general,generated

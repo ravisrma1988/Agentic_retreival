@@ -7,5 +7,4 @@ runs_pilot_dev/
 paper/
 data/annotation/*_sheet_*.csv
 data/annotation/qa_sheet_key.jsonl
-runs/intent*
 runs/report.md

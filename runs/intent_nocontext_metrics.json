@@ -1,0 +1,65 @@
+{
+  "n": 384,
+  "accuracy": "91.7 [88.8, 94.3]",
+  "macro_f1": 0.8090491451823647,
+  "per_class": {
+    "greeting": {
+      "precision": 0.8295454545454546,
+      "recall": 1.0,
+      "f1-score": 0.906832298136646,
+      "support": 73.0
+    },
+    "product_inquiry": {
+      "precision": 0.9585492227979274,
+      "recall": 0.9635416666666666,
+      "f1-score": 0.961038961038961,
+      "support": 192.0
+    },
+    "high_intent": {
+      "precision": 0.9550561797752809,
+      "recall": 0.9444444444444444,
+      "f1-score": 0.9497206703910615,
+      "support": 90.0
+    },
+    "general": {
+      "precision": 0.6428571428571429,
+      "recall": 0.3103448275862069,
+      "f1-score": 0.4186046511627907,
+      "support": 29.0
+    }
+  },
+  "confusion": [
+    [
+      73,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      185,
+      3,
+      4
+    ],
+    [
+      0,
+      4,
+      85,
+      1
+    ],
+    [
+      15,
+      4,
+      1,
+      9
+    ]
+  ],
+  "labels": [
+    "greeting",
+    "product_inquiry",
+    "high_intent",
+    "general"
+  ],
+  "context_subset_accuracy": "85.0 [72.5, 95.0]",
+  "unparsed": 0
+}

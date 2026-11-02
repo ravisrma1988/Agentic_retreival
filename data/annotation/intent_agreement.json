@@ -1,0 +1,8 @@
+{
+  "n_labelled_both": 400,
+  "kappa_A_B": 0.9393445419565176,
+  "n_disagree": 16,
+  "n_unresolved": 16,
+  "n_gold": 384,
+  "gold_differs_from_generated": 103
+}

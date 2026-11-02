@@ -1,0 +1,11 @@
+{
+  "n_items": 105,
+  "correctness_kappa_A_B": 0.9649040711277492,
+  "correctness_raw_agreement_A_B": 0.9523809523809523,
+  "correctness_kappa_consensus_judge": 0.7258865855747816,
+  "correctness_n_consensus": 100,
+  "hallucination_kappa_A_B": 0.8771929824561404,
+  "hallucination_raw_agreement_A_B": 0.9523809523809523,
+  "hallucination_kappa_consensus_judge": 0.6944444444444444,
+  "hallucination_n_consensus": 100
+}
